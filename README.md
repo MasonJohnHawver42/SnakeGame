@@ -13,3 +13,5 @@ https://youtu.be/7neux-mhLDw
     from Game import *
 
     Game.play()
+
+once running, use WADS or arrow keys to control the snake
