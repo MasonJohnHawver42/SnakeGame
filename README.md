@@ -11,7 +11,9 @@ https://youtu.be/7neux-mhLDw
 
 # How to use My Code:
     from Game import *
-
-    Game.play()
+    
+    diff = "hard"
+    size = (30, 30)
+    Game.play(size, diff)
 
 once running, use WADS or arrow keys to control the snake
